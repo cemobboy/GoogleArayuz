@@ -1,0 +1,51 @@
+.img-fluid {
+  position: fixed; 
+  top: 30%; 
+  left: 50%;
+  transform: translate(-50%, -50%); 
+  width: 400px; 
+}
+input[type="text"] {
+
+  padding: 20px;
+  font-size: 16px; 
+  position: fixed;
+  top: 43%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  width: 500px;
+}
+
+
+button[id="1"]{
+  width: 85px; 
+  padding: 10px; 
+  font-size: 15px; 
+  position: fixed;
+  top: 50%;
+  left: 44%;
+  transform: translate(-50%,-50%);
+  width: 150px;
+}
+
+button[id="2"]{
+  width: 85px; 
+  padding: 10px; 
+  font-size: 15px; 
+  position: fixed;
+  top: 50%;
+  left: 54%;
+  transform: translate(-50%,-50%);
+  width: 300px;
+}
+button[id="3"]{
+  align-items: center;
+  position: fixed;
+  left: 95%;
+}
+button[id="4"]{
+  align-items: center;
+  position: fixed;
+  left: 92%;
+
+}
